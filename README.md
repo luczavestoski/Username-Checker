@@ -15,7 +15,7 @@ Load **usernames.txt** with desired usernames and start the script.
 
 To stop checking usernames end the process by closing your terminal. 
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:47.344%;"><iframe src="https://streamable.com/e/6em6gw" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[Imgur](https://imgur.com/LbkEmHE)
 
 ## To do 
 
