@@ -21,8 +21,9 @@ To stop checking usernames end the process by closing your terminal.
 * Add proxies 
 * Change output to single line and incorporate tqdm progressbar
 
-## License 
-Copyright © 2020  Your Name <luc.zavestoski@gmail.com>
+## License
+
+Copyright © 2020  Luc Zavestoski <luc.zavestoski@gmail.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
