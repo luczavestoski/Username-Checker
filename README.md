@@ -3,7 +3,7 @@ A username checker designed to check usernames  against the R6TabAPI for Rainbow
 
 ## Installation
 
-Use pip to install the neccassary packages
+Use pip to install the neccassary packages (you must do this in the path of the file)
 
 ``` pip install -r requirements.txt ```
 
