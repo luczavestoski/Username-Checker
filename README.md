@@ -1,6 +1,5 @@
-# Ubisoft-Username-Checker
-A username checker designed to check usernames  against the R6TabAPI for Rainbow Six Siege and other Ubisoft games. 
-
+# Username-Checker
+A username checker designed to check usernames.
 ## Installation
 
 Use pip to install the neccassary packages (you must do this in the path of the file)
